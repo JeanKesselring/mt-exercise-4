@@ -1,3 +1,7 @@
+# Exercise 4.2
+Follow the steps in the Solution_4.2 file.
+Execute the code cells in order. 
+
 # MT Exercise 4: Layer Normalization for Transformer Models
 
 This repo is a collection of scripts showing how to install [JoeyNMT](https://github.com/joeynmt/joeynmt), download
